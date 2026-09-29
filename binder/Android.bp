@@ -38,6 +38,7 @@ cc_library_shared {
         "android/bluetooth/IBluetoothMetadataListener.aidl",
         "android/bluetooth/IBluetoothGattServerCallback.aidl",
         "android/bluetooth/le/IAdvertisingSetCallback.aidl",
+        "android/bluetooth/le/IBluetoothLeCallback.aidl",
         "android/bluetooth/le/IPeriodicAdvertisingCallback.aidl",
         "android/bluetooth/le/IScannerCallback.aidl"
 */
@@ -114,6 +115,7 @@ filegroup {
         "android/bluetooth/IBluetoothMetadataListener.aidl",
         "android/bluetooth/IBluetoothGattServerCallback.aidl",
         "android/bluetooth/le/IAdvertisingSetCallback.aidl",
+        "android/bluetooth/le/IBluetoothLeCallback.aidl",
         "android/bluetooth/le/IPeriodicAdvertisingCallback.aidl",
         "android/bluetooth/le/IScannerCallback.aidl",
         "android/bluetooth/IBluetoothDun.aidl",
